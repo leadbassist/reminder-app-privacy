@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This Privacy Policy describes how Pursovere Tech ("we", "us", or "our") handles information in connection with the use of **Your Personal Remind Assistant** (the "App"), available on the Apple App Store and Google Play Store.
+This Privacy Policy describes how Pursovere Technologies ("we", "us", or "our") handles information in connection with the use of **Your Personal Remind Assistant** (the "App"), available on the Apple App Store and Google Play Store.
 
 By downloading, installing, or using this App, you acknowledge that you have read, understood, and agreed to this Privacy Policy. If you do not agree with any part of this policy, you must not use the App.
 
@@ -149,5 +149,5 @@ This Privacy Policy is governed by and construed in accordance with applicable l
 
 ---
 
-*Pursovere Tech*
+*Pursovere Technologies*
 *info@pursoveretech.com*
